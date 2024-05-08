@@ -1,0 +1,22 @@
+.event-categories {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .event-categories button {
+    background-color: #f0f0f0;
+    color: #0e0d0d;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .event-categories button.active {
+    background-color: #070707;
+    color: #fff;
+  }
+  

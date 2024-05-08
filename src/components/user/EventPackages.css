@@ -1,0 +1,161 @@
+.package-container {
+    padding: 20px;
+  }
+  
+  .package-title {
+    color: #ef4444;
+    font-family: 'Courier New', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0 0 30px;
+  }
+  
+  .package-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .package-item {
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .package-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .package-details {
+    padding: 20px;
+  }
+  
+  .package-name {
+    color: #333;
+    font-size: 1.5rem;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .package-description {
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .package-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .package-price {
+    color: #333;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .buy-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .buy-button:hover {
+    background-color: #373838;
+  }
+  
+  .package-quantity {
+    color: #666;
+    margin: 0;
+  }
+  .package-container {
+    padding: 20px;
+  }
+  
+  .package-title {
+    color: #ef4444;
+    font-family: 'Courier New', monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0 0 30px;
+  }
+  
+  .package-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .package-item {
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .package-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .package-details {
+    padding: 20px;
+  }
+  
+  .package-name {
+    color: #333;
+    font-size: 1.5rem;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .package-description {
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .package-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .package-price {
+    color: #333;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .buy-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .buy-button:hover {
+    background-color: #373838;
+  }
+  
+  .package-quantity {
+    color: #666;
+    margin: 0;
+  }
+    

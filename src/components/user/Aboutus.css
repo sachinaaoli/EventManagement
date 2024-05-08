@@ -1,0 +1,25 @@
+.about-us {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fefce8; /* Light background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-us h2 {
+  color: black; /* Dark text color for headings */
+  font-size: 28px; /* Slightly larger font size */
+  margin-bottom: 20px;
+  
+}
+
+.about-us p {
+  color: black; /* Dark gray text color */
+  font-size: 18px; /* Larger font size for better readability */
+  line-height: 1.6;
+}
+
+.about-us p:last-child {
+  margin-bottom: 0;
+}
